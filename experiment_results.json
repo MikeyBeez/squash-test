@@ -1,0 +1,30 @@
+{
+  "experiment_info": {
+    "model": "gpt2",
+    "baseline_context": 1024,
+    "timestamp": "2025-07-31 15:05:15"
+  },
+  "raw_results": [
+    {
+      "context_size": 1024,
+      "perplexity": 1.226503610610962,
+      "inference_time": 1.6456828117370605,
+      "memory_used": 0,
+      "success": true,
+      "error": null
+    },
+    {
+      "context_size": 1152,
+      "perplexity": null,
+      "inference_time": null,
+      "memory_used": null,
+      "success": false,
+      "error": "index out of range in self"
+    }
+  ],
+  "analysis": {
+    "degradation_factor": 1.0,
+    "max_context_tested": 1024,
+    "viable": true
+  }
+}
