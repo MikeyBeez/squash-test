@@ -1,0 +1,12 @@
+{
+  "training_complete": true,
+  "generation_tests": [
+    {
+      "seed": [
+        1,
+        2
+      ],
+      "compressed_generation": [
+        1,
+        2,
+        
