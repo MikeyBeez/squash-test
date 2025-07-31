@@ -1,0 +1,14 @@
+{
+  "baseline_lengths": [],
+  "extended_lengths": [
+    512,
+    768
+  ],
+  "baseline_losses": [],
+  "extended_losses": [
+    4.583546512634559,
+    4.57565248118917
+  ],
+  "break_point": null,
+  "success": true
+}
