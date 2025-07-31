@@ -1,0 +1,14 @@
+{
+  "test_stages": [
+    "compression_training_complete",
+    "encoder_extracted",
+    "context_extension_tested"
+  ],
+  "success": false,
+  "compression_ratios": [
+    4.0
+  ],
+  "performance_preservation": [
+    0.9915988515506426
+  ]
+}

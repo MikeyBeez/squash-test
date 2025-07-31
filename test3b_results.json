@@ -1,0 +1,45 @@
+{
+  "compression_tests": [
+    {
+      "original_length": 100,
+      "compressed_length": 25,
+      "ratio": 4.0,
+      "performance_ratio": 1.0053566540519718
+    }
+  ],
+  "context_extension_tests": [
+    {
+      "length": 200,
+      "direct_success": true,
+      "direct_loss": 0.09239492383186783,
+      "compression_success": true,
+      "compression_loss": 0.09141403092772851,
+      "effective_ratio": 2.898550724637681
+    },
+    {
+      "length": 400,
+      "direct_success": true,
+      "direct_loss": 0.09241748987661262,
+      "compression_success": true,
+      "compression_loss": 0.09100336458061281,
+      "effective_ratio": 3.361344537815126
+    },
+    {
+      "length": 600,
+      "direct_success": true,
+      "direct_loss": 0.09146761326281828,
+      "compression_success": true,
+      "compression_loss": 0.0907522231169107,
+      "effective_ratio": 3.5502958579881656
+    },
+    {
+      "length": 800,
+      "direct_success": true,
+      "direct_loss": 0.09089997862670995,
+      "compression_success": true,
+      "compression_loss": 0.09062558413817347,
+      "effective_ratio": 3.65296803652968
+    }
+  ],
+  "success": true
+}
